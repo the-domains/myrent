@@ -1,0 +1,14 @@
+layout_spectrum: 0.9226314
+typography_spectrum: 0.1604478
+color:
+  saturation: 0.9627594
+  lightness: 0.1951744
+  brandStrength: 0.6047379
+  brandColors:
+    - '#FFFFFF'
+    - '#462A12'
+    - '#CEC1C8'
+    - '#1F5864'
+    - '#746D7B'
+  rhythmicContrast: 0.1514198
+name: MyRent
